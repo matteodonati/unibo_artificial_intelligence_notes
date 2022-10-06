@@ -1,6 +1,6 @@
 # Unibo - Artificial Intelligence Notes
 
-These are personal notes of the Artificial Intelligence master's degree courses at Unibo (Alma Mater Studiorum, University of Bologna). The directory contains a folder for every single course I have been able to take notes on. In particular, the following table shows the current status of the notes related to the various courses:
+These are personal notes of the Artificial Intelligence master's degree courses at Unibo (Alma Mater Studiorum, University of Bologna). The directory contains a folder for every single course I have been able to take notes on. If some courses have been listed it is because I have not taken notes on those. In particular, the following table shows the current status of the notes related to the various courses:
 
 Course  | Year | Status
 ------- | ---- | ------
@@ -10,6 +10,8 @@ Image Processing and Computer Vision | 1 | Completed
 Languages and Algorithms for Artificial Intelligence | 1 | Completed
 Machine Learning | 1 | Completed
 Statistical and Mathematical Methods for Artificial Intelligence | 1 | Completed
+Artificial Intelligence in Industry | 2 | In progress
+Ethics in Artificial Intelligence | 2 | In progress
 Machine Learning for Computer Vision | 2 | Completed*
 Natural Language Processing | 2 | Completed*
 Social Network Analysis | 2 | Completed*
