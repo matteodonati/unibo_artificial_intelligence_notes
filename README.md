@@ -16,4 +16,4 @@ Machine Learning for Computer Vision | 2 | Completed*
 Natural Language Processing | 2 | Completed*
 Social Network Analysis | 2 | Completed
 
-*The notes for these courses were completed using slides and other material provided in the previous academic year. Therefore, these notes will be modified during the course of the current academic year, based on new slides, lectures and material.
+*The notes for these courses were completed using slides and other material provided in the previous academic year (2021/2022). Therefore, these notes will be modified during the course of the current academic year, based on new slides, lectures and material.
