@@ -11,7 +11,6 @@ Languages and Algorithms for Artificial Intelligence | 1 | Completed
 Machine Learning | 1 | Completed
 Statistical and Mathematical Methods for Artificial Intelligence | 1 | Completed
 Artificial Intelligence in Industry | 2 | In progress
-Ethics in Artificial Intelligence | 2 | In progress
 Machine Learning for Computer Vision | 2 | Completed
 Natural Language Processing | 2 | Completed
 Social Network Analysis | 2 | Completed
